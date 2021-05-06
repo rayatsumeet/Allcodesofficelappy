@@ -22,7 +22,7 @@ public class Jumbeled {
 
 		while (sc.hasNext()) {
 			int length = sc.next().length();
-
+           
 			
 
 		}
