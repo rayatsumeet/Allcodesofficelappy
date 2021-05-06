@@ -17,7 +17,7 @@ public class PrimeRange {
 				}
 				
 			}
-			
+		
 			if(isprime)
 			{
 				System.out.println("prime"+i);
