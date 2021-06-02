@@ -14,7 +14,7 @@ public class AddDollars {
 			{
 				for(int j=0;j<=count;j++)
 				{
-					arrayl.add("$");
+					arrayl.add("$"); 
 				}
 				count++;
 			}
