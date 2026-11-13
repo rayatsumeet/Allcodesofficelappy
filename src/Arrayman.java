@@ -12,7 +12,7 @@ public class Arrayman {
 
 				if (a[i] * a[j] > maxmul) {//testing sumeet
 					maxmul = a[i] * a[j];
-					num1 = a[i];
+					num1 = a[i];//abc
 					num2 = a[j];
 
 				}
