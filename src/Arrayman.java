@@ -10,7 +10,7 @@ public class Arrayman {
 		for (int i = 0; i <= a.length - 1; i++) {
 			for (int j = i + 1; j <= a.length - 1; j++) {
 
-				if (a[i] * a[j] > maxmul) {
+				if (a[i] * a[j] > maxmul) {//testing sumeet
 					maxmul = a[i] * a[j];
 					num1 = a[i];
 					num2 = a[j];
